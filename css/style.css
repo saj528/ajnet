@@ -27,8 +27,32 @@
 .socialmediaimage {
 	width: 80%;
 	padding-bottom: 10px;
-	border-radius: 2%;
+	border-radius: 4%;
 }
+
+.clientmediaimage {
+	width: 70%;
+	padding-bottom: 10px;
+	border-radius: 4%;
+}
+
+.gameimg {
+	padding-bottom: 10px;
+	border-radius: 4%;
+}
+
+.virpet {
+	width: 30%;
+}
+
+.marclo {
+	width: 34%;
+}
+
+.froclo {
+	width: 29%;
+}
+
 
 .tealbg {
 	background: url("../images/creampaper2.png")
