@@ -187,7 +187,7 @@ p {
     position: absolute;
     float: none;
     vertical-align: top;
-    background-color: rgba(255, 250, 240);
+    background-color: rgba(0, 51, 102, 0.7);
     border-radius: 10px;
   }
 
@@ -237,7 +237,7 @@ p {
     float: none;
     vertical-align: top;
     margin-left: 50px;
-    background-color: rgba(255, 250, 240);
+    background-color: rgba(0, 51, 102, 0.7);
     border-radius: 10px;
   }
 
@@ -317,7 +317,7 @@ p {
     display: inline-block;
     float: none;
     vertical-align: top;
-    background-color: rgba(255, 250, 240);
+    background-color: rgba(0, 51, 102, 0.7);
     border-radius: 10px;
     position: absolute;
   }
