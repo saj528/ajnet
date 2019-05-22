@@ -11,38 +11,22 @@
 
 					<ul class="m-b-70">
 						<li class="txt14 m-b-14">
-							<i class="fa fa-map-marker fs-16 dis-inline-block size19" aria-hidden="true"></i>
+							<i class="fa fa-map-marker fs-16 dis-inline-block size19" aria-hidden="true">Email: alexjoinerwebdev@gmail.com</i>
 							<br>
 							
 						</li>
 
 						<li class="txt14 m-b-14">
-							<i class="fa fa-phone fs-16 dis-inline-block size19" aria-hidden="true"></i>
+							<i class="fa fa-phone fs-16 dis-inline-block size19" aria-hidden="true">Resume: <a href="assets/hello.txt">Download Here</a></i>
 							
 						</li>
 
 						<li class="txt14 m-b-14">
-							<i class="fa fa-envelope fs-13 dis-inline-block size19" aria-hidden="true"></i>
+							<i class="fa fa-phone fs-16 dis-inline-block size19" aria-hidden="true">My Github: <a href="https://github.com/saj528">Here</a></i>
 							
 						</li>
+
 					</ul>
-				</div>
-
-				<div class="col-sm-6 col-md-4 p-t-50">
-					<!-- - -->
-					<h4 class="txt13 m-b-33">
-						Social Media
-					</h4>
-
-					<div class="m-b-70">
-						<div class="txt14 m-b-14">
-							<a class="navbar-brand" href="">
-								<img class="socialmediaimage" alt="Brand" src="images/githubicon.png">
-							</a>
-						</div>
-					</div>
-					<br />
-	
 				</div>
 			</div>
 		</div>
