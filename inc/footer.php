@@ -37,7 +37,7 @@
 					<div class="m-b-70">
 						<div class="txt14 m-b-14">
 							<a class="navbar-brand" href="">
-								<img class="socialmediaimage" alt="Brand" src="images/facebook.png">
+								<img class="socialmediaimage" alt="Brand" src="images/githubicon.png">
 							</a>
 						</div>
 					</div>
