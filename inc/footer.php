@@ -17,7 +17,7 @@
 						</li>
 
 						<li class="txt14 m-b-14">
-							<i class="fa fa-phone fs-16 dis-inline-block size19" aria-hidden="true">Resume: <a href="assets/hello.txt">Download Here</a></i>
+							<i class="fa fa-phone fs-16 dis-inline-block size19" aria-hidden="true">Resume: <a href="assets/Resume.pdf">Download Here</a></i>
 							
 						</li>
 

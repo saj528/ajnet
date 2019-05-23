@@ -16,7 +16,6 @@
             <ul align="center" class="nav navbar-nav">
                <li align="center"> <a href="#whoami">WHO AM I</a></li>
                <li align="center"> <a href="#portfolio">PORTFOLIO</a></li>
-               <li align="center"> <a href="#whatiknow">WHAT I KNOW</a></li>
                <li align="center"> <a href="#foot">WHERE TO FIND ME</a></li>
             </ul>
          </div>

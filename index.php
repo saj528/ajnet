@@ -14,11 +14,11 @@
 <div id="morecustomers">
    <div class="container">
       <!-- Start of Web Projects Section -->
-      <div class="row">
+      <div id="portfolio" class="row">
       <h2 id="workimg" align="center">Showcase Projects</h2>
       <div>
             <div class="col-md-4" align="center" id="workimg">
-               <h2>Item</h2>
+               <h2>Yelp Clone</h2>
                <a href="https://nomster-alex-joiner.herokuapp.com/">
                   <img class="socialmediaimage" alt="Brand" src="images/reviewstericon.png">
                </a>
@@ -30,7 +30,7 @@
          </div>
          <div>
             <div class="col-md-4" align="center" id="workimg">
-               <h2>Item</h2>
+               <h2>Video Streaming Platform</h2>
                <a href="https://flixter-alex-joiner.herokuapp.com/">
                   <img class="socialmediaimage" alt="Brand" src="images/flixtericon.png">
                </a>
@@ -42,7 +42,7 @@
          </div>
          <div>
             <div class="col-md-4" align="center" id="workimg">
-               <h2>Item</h2>
+               <h2>Instagram Clone</h2>
                <a href="https://grammable-alex-joiner.herokuapp.com/">
                   <img class="socialmediaimage" alt="Brand" src="images/grammableicon.png">
                </a>
@@ -63,7 +63,7 @@
       <h2 id="workimg" align="center">Client Projects</h2>
          <div>
             <div class="col-md-4" align="center" id="workimg">
-               <h2>Item</h2>
+               <h2>Circle B Cutters</h2>
                <a href="https://circlebcutter.com/">
                   <img class="clientmediaimage" alt="Brand" src="images/cbcicon.png">
                </a>
@@ -75,7 +75,7 @@
          </div>
          <div>
             <div class="col-md-4" align="center" id="workimg">
-               <h2>Item</h2>
+               <h2>Restaurant Web Design</h2>
                <a href="https://restaurantswebdesign.com/">
                   <img class="clientmediaimage" alt="Brand" src="images/rwdicon.png">
                </a>
@@ -87,7 +87,7 @@
          </div>
          <div>
             <div class="col-md-4" align="center" id="workimg">
-               <h2>Item</h2>
+               <h2>Wisteria Vines</h2>
                <a href="https://wisteriavineseventbarn.com/">
                   <img class="clientmediaimage" alt="Brand" src="images/wvebicon.png">
                </a>
@@ -109,7 +109,7 @@
       <h2 id="workimg" align="center">Javascript Projects</h2>
          <div>
             <div class="col-md-4" align="center" id="workimg">
-               <h2>Item</h2>
+               <h2>Virtual Pet</h2>
                <a href="https://frosty-panini-2925d2.netlify.com/">
                   <img class="gameimg virpet" alt="Brand" src="images/virpet.png">
                </a>
@@ -121,7 +121,7 @@
          </div>
          <div>
             <div class="col-md-4" align="center" id="workimg">
-               <h2>Item</h2>
+               <h2>Platformer Clone</h2>
                <a href="https://eager-morse-6200a2.netlify.com/">
                   <img class="gameimg marclo" alt="Brand" src="images/marclo.png">
                </a>
@@ -133,7 +133,7 @@
          </div>
          <div>
             <div class="col-md-4" align="center" id="workimg">
-               <h2>Item</h2>
+               <h2>Frogger Clone</h2>
                <a href="https://vigorous-torvalds-3b9d53.netlify.com/">
                   <img class="gameimg froclo" alt="Brand" src="images/froclo.png">
                </a>
@@ -148,5 +148,9 @@
       </div>
       <!-- End of Javascript Projects Section -->
    </div>
+</div>
+<br>
+<div  align="center" id="whatiknow">
+   <img class="gameimg languages" alt="Brand" src="images/languages.png">
 </div>
 <?php require_once 'inc/footer.php'; ?>
