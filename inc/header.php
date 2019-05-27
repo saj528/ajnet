@@ -23,7 +23,7 @@
       </div>
    </nav>
    <!--end nav-->
-   <div id="whoami" class="row">
+   <div class="row">
       <div class="col-md-6 col-md-offset-3" id="result" align="center">
          <!--- Form Success/ Failure Message will display here-->
       </div>
